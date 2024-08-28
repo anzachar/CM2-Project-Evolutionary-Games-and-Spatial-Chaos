@@ -1,3 +1,2 @@
-# CM2-Project-Evolutionary-Games-and-Spatial-Chaos
-This repository is dedicated to the project I completed within the framework of the course "Computational Mathematics II" during my MSc in Computational Physics. The aim of the project is to replicate the results produced by  Martin A. Nowak and Robert M. May in their paper "Evolutionary Games and Chaos" (1992, Letters to Nature).
-For the purpose of this, a python program was developed using Jupyter Notebook for better visialization of the results.
+# Computational Mathematics II Project: Evolutionary Games and Spatial Chaos
+This repository is dedicated to the project I completed as part of the "Computational Mathematics II" course during my MSc in Computational Physics. The project's objective was to replicate the results produced by Martin A. Nowak and Robert M. May in their paper "Evolutionary Games and Chaos" (1992, Letters to Nature). To achieve this, I developed a Python program using Jupyter Notebook, which allowed for better visualization of the results.
